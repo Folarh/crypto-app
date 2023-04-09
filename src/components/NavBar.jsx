@@ -11,7 +11,7 @@ export default function NavBar() {
         <ul>
             <li>Home</li>
             <li>Earn</li>
-            <li>contact</li>
+            <li>Contact</li>
             
         </ul>
     </div>

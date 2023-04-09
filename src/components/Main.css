@@ -4,10 +4,13 @@
     align-items: center;
     min-height: 85vh;
     box-shadow: rgba(0,0,0,0.05) 0px 6px 24px 0px, rgba(0,0,0,0.08) 0px 0px 0px 1px;
+    background: linear-gradient(to right,#f9e7fe, #dafcfc);
+
 }
 
 .main-page-left{
     flex: 0.5;
+    line-height: 2.5rem;
 }
 
 .main-page-left h5,p{

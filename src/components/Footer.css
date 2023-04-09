@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: aquamarine; */
+    /* transform: skew(30deg); */
+    min-height: 60vh;
+    background: linear-gradient(to right,#a0abe9, #b3e9e8);
+}
+
+
+ .social-icon{
+display: flex;
+align-items: center;
+color: black;
+ }

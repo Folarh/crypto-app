@@ -5,7 +5,7 @@ export default function Main() {
   return (
    <main className='main-page'>
     <div  className='main-page-left'>
-        <h5>Buy and sell crypto 24/7  from MeCoin</h5>
+        <h5>Buy and sell crypto 24/7 with your debit card from MeCoin</h5>
         <h1>
             Invest In <br/>
             Cryptocurrency with your <br/>
